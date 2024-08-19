@@ -1,2 +1,2 @@
-# TCQ-NQT_Previous Year Questions
+# TCS-NQT_Previous Year Questions
  
