@@ -29,7 +29,7 @@ int main(){
     int flag = 0;
     cin>>input;
     
-    for(int i = 0; i<16; i++){
+    for(int i = 0; i < 16; i++){
         if(strcmp(input,str[i] )== 0){
             flag = 1;
             break;
