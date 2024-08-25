@@ -39,3 +39,26 @@ int main()
     }
     return 0;
 }
+
+
+-----------------------------------------------------------------------------------------
+#include<iostream>
+#include<cmath>
+
+using namespace std;
+
+int main(){
+    int N;
+    cin>>N;
+    
+    if(N % 2 == 1){
+        //N is odd
+        int termIndex  = N/2;
+        cout<< pow(2,termIndex)<<endl;
+    }else{
+        // N is even
+        int termIndex  = (N/2) - 1;
+        cout<<pow(3,termIndex)<<endl;
+    }
+    return 0;
+}
