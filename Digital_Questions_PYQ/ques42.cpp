@@ -1,5 +1,4 @@
 // Question 42
-// QUESTION NO : 42
 // Given a string Str, which contains numbers (0 to 9)and also letters of the English and
 // to 'Z'). The task is to reverse string the string in such a way that the positiors of
 // numbers in the string are left unaltered.
