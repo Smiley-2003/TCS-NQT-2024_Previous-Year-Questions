@@ -12,7 +12,7 @@
 // Thus Bob generated number y1, y2, ... yn.
 // Your task is to tell for each number yi, can it be a permutation of numbers divisible by
 // 60(possibly with leading zeroes)
-// QUESTION NO : 48
+
 // Input
 // The ﬁrst line of input contains a single integer N - the number of people surveyed. (1
 // <= N <= 500)
