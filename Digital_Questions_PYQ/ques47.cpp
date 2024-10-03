@@ -10,7 +10,7 @@
 // Now, Monk has no idea about what the ideal password may be and needs you help.
 // You need to help Monk ﬁnd the total number of distinct candidate Strings for
 // it Modulo 109+7.
-// QUESTION NO : 47
+
 // Input Format:
 // The ﬁrst line contains a single integer T denoting the number of test cases. Each of
 // the next T lines contain two integers N and K denoting the length of the Secret
@@ -22,7 +22,7 @@
 // Constraints:
 // 1≤T≤10
 // 1≤N≤K≤105
-// QUESTION NO : 47
+
 // Note:
 // You need to print the value of each element and not their weight.
 // Sample Input:
@@ -30,7 +30,7 @@
 // 3 3
 // Output:
 // 6
-// QUESTION NO : 47
+
 // Explanation:
 // Let's number the characters of the special language to be 1 , 2 and 3 respectively. So,
 // all possible candidate Strings are:
